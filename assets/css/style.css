@@ -1,0 +1,23 @@
+header nav a {
+    color: tomato;
+    font-size: 12px;
+    margin-left: 30px;
+}
+
+header {
+    background-color: gray;
+}
+
+section a {
+    color: tomato;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+section p span {
+    color: tomato;
+}
+
+html {
+    background-color: lightgray;
+}
